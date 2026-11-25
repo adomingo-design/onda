@@ -1,0 +1,10 @@
+.DS_Store
+output/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.clasp.json
+.clasprc.json
